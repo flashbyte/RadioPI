@@ -1,0 +1,1121 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Me",
+				"Menu	class"
+			],
+			[
+				"Menu",
+				"MenuPage	class"
+			],
+			[
+				"a",
+				"add_item	function"
+			],
+			[
+				"ev",
+				"event	forstmt"
+			],
+			[
+				"men",
+				"menu"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"menu_",
+				"menu_width"
+			],
+			[
+				"me",
+				"menu_height"
+			],
+			[
+				"cre",
+				"create_button"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"menu",
+				"menu_size"
+			],
+			[
+				"item",
+				"item_surfaces"
+			],
+			[
+				"make_",
+				"make_que_menu"
+			],
+			[
+				"Mp",
+				"MPDClient"
+			],
+			[
+				"mpd",
+				"mpd_setting_menu"
+			],
+			[
+				"ad",
+				"add_item"
+			],
+			[
+				"Men",
+				"MenuPage"
+			],
+			[
+				"pa",
+				"page_list"
+			],
+			[
+				"act",
+				"active_item"
+			],
+			[
+				"ret",
+				"ret_string"
+			],
+			[
+				"it",
+				"menu_item_list"
+			],
+			[
+				"in",
+				"interpreter"
+			],
+			[
+				"se",
+				"search_url"
+			],
+			[
+				"re",
+				"requests"
+			],
+			[
+				"gx",
+				"GXV3240"
+			],
+			[
+				"ma",
+				"match_tuple"
+			],
+			[
+				"up",
+				"update_firmware_to_1_4"
+			],
+			[
+				"upda",
+				"update_switch"
+			],
+			[
+				"im",
+				"image_name"
+			],
+			[
+				"upd",
+				"update_bootloader"
+			],
+			[
+				"sw",
+				"sw_version"
+			],
+			[
+				"e",
+				"expect"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"Geo",
+				"george"
+			],
+			[
+				"he",
+				"ldap-helpdesk"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RadioPI/main.py",
+			"settings":
+			{
+				"buffer_size": 1876,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RadioPI/settings.py",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RadioPI/Menu.py",
+			"settings":
+			{
+				"buffer_size": 2226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RadioPI/gui.py",
+			"settings":
+			{
+				"buffer_size": 1594,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "note",
+		"selected_items":
+		[
+			[
+				"note",
+				"Notes: New…"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pytohn",
+				"Set Syntax: Python"
+			],
+			[
+				"main",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"notes",
+				"Notes: New…"
+			],
+			[
+				"git gut",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git gutt",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"aster",
+				"Set Syntax: Asterisk config"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"inb",
+				"Notes: Inbox"
+			],
+			[
+				"pupp",
+				"Set Syntax: Puppet"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nils.mull/Projects/Private/RadioPI",
+		"/home/nils.mull/Projects/Private/RadioPI/RadioPI",
+		"/home/nils.mull/Projects/Private/RadioPI/RadioPI.wiki"
+	],
+	"file_history":
+	[
+		"/home/nils.mull/Projects/Private/RadioPI/RadioPI/settings.py",
+		"/home/nils.mull/Projects/Private/RadioPI/RadioPI.wiki/Home.md",
+		"/home/nils.mull/Projects/Private/RadioPI/RadioPI.wiki/Part List.md",
+		"/home/nils.mull/Dropbox/Notes/Private.note",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/backupserver02.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/backupserver01.de.bonial.lan.yaml",
+		"/home/nils.mull/Dropbox/Notes/Worklog.note",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/fileserver01.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/kaufda-userdatabase.yaml",
+		"/home/nils.mull/puppet/kaufda_secret/modules/openvpn/files/openvpn/easy-rsa/keys/index.txt",
+		"/home/nils.mull/puppet/kaufda_secret/CA/index.txt",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/node/backupserver02.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/node/backupserver01.de.bonial.lan.yaml",
+		"/home/nils.mull/Documents/Private/apartement-barcelona.tyt",
+		"/home/nils.mull/puppet/kaufda_puppet/.git/COMMIT_EDITMSG",
+		"/home/nils.mull/Dropbox/Notes/Network Questions.note",
+		"/home/nils.mull/Dropbox/Notes/office360.note",
+		"/home/nils.mull/Documents/feedback-marco",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/fileserver_setup/manifests/init.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/kaufda-userdatabase.yaml",
+		"/home/nils.mull/Documents/Netflow/netflow.txt",
+		"/tmp/vm.status",
+		"/home/nils.mull/Private/Scipte/album_lookup.py",
+		"/home/nils.mull/Downloads/1.txt",
+		"/tmp/search.json",
+		"/home/nils.mull/Dropbox/Notes/Ganeti.note",
+		"/home/nils.mull/Dropbox/Notes/Cisco.note",
+		"/home/nils.mull/Tickets/Cluster Cleanup/node-list.csv",
+		"/home/nils.mull/puppet/kaufda_puppet/manifests/nodes_office_berlin.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/dnsmasq/files/dnsmasq.conf",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/common.yaml",
+		"/home/nils.mull/.zshrc",
+		"/home/nils.mull/Scripts/Network/sg300_deploy_new_fw.py",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/dialplan/extensions.conf",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/dnsmasq/manifests/servers.pp",
+		"/home/nils.mull/puppet/kaufda_secret/modules/openvpn/templates/openvpnserver.conf.erb",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/node/ftp.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/fileserver_setup/files/locky_count.sh",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/cisco/manifests/asa_nagios_checks.pp",
+		"/home/nils.mull/Tickets/FileserverVirus/bbstore-example.txt",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/litedumps/manifests/fileserver.pp",
+		"/tmp/notworking.rtf",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/common.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/scripts/office.sh",
+		"/home/nils.mull/puppet/kaufda_secret/.git/COMMIT_EDITMSG",
+		"/tmp/switches.txt",
+		"/home/nils.mull/Dropbox/Notes/ToOptimise.note",
+		"/tmp/working.rtf",
+		"/tmp/dnsmasq-queries.log",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/manifests/make_sip_peers_from_computers.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/cisco/templates/sg300-10-startup-config.erb",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/dnsmasq2/manifests/dnsserver.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/networkserver.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/manifests/nodes_boreus.pp",
+		"/home/nils.mull/Tickets/IPS-210/switch-to-update.txt",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/apple_pushnotification_certs/manifests/check_expiry.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/backupserver01.us.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/dell/files/temperature_check.pl",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/airbrake/manifests/monitoring.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/activemq/manifests/monitoring.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/generate_nagios_checks/manifests/add_check.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/enc/db-backup.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/role/dbbackup.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/enc/selenium-node1.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/asterisk.conf",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/sip.conf",
+		"/home/nils.mull/Tickets/Cluster Cleanup/node-list.txt",
+		"/tmp/gxv3240_config_1.0.3.62.txt",
+		"/home/nils.mull/Downloads/config-template/gxv3240_config_1.0.3.62.txt",
+		"/home/nils.mull/Downloads/config",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/templates/sip_peers/sip.users.conf.erb",
+		"/home/nils.mull/Downloads/config-template/gxv3240_config_1.0.3.67.txt",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/role/dbbackup.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/sip_fr.conf",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/networkserver.fr.bonial.lan.yaml",
+		"/home/nils.mull/.ssh/config",
+		"/home/nils.mull/Tickets/OfficeFranceLostConnection/fon-bonial-R+5-new.txt",
+		"/home/nils.mull/puppet/kaufda_secret/modules/openvpn/manifests/init.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/pg-dwh-portal.prod.brs.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/monitoring.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/nfs/manifests/server.pp",
+		"/tmp/meinp.txt",
+		"/home/nils.mull/.config/awesome/rc.lua",
+		"/home/nils.mull/Tickets/CERT-4408/intelij-licence",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/userdatabase/manifests/computers.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/enc/networkserver.fr.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/dnsmasq/templates/vlan.conf.erb",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/dialplan/extensions_fr.conf",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/repository.prod.brs.bonial.lan.yaml",
+		"/home/nils.mull/Tickets/CERT-4364/sg300_mount_links.tyt",
+		"/home/nils.mull/.purple/accounts.xml",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/mam_device_detection/manifests/sftp.pp",
+		"/home/nils.mull/Tickets/OfficeFranceLostConnection/fon-bonial-new.txt",
+		"/home/nils.mull/Dropbox/Notes/Paris Office Visit.note",
+		"/tmp/cs7.cfg",
+		"/tmp/meinp.",
+		"/usr/share/awesome/themes/default/theme.lua",
+		"/home/nils.mull/NETGEAR_R7000.cfg",
+		"/home/nils.mull/Documents/Rooms/make_jpg.sh",
+		"/home/nils.mull/puppet/kaufda_puppet/enc/fr-node1.fr.bonial.lan.yaml",
+		"/home/nils.mull/Tickets/OfficeFranceLostConnection/quiestions.txt",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/templates/sip_peers/static-sip-peers.conf.erb",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/manifests/sip_peers/config.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/asterisk.init.d",
+		"/home/nils.mull/Tickets/CERT-4280/createMissingPublisherFolders/list-de-adjusted.sh",
+		"/tmp/afeminin.txt",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk/files/dialplan/cs 4",
+		"/tmp/asterisk/extensions.conf",
+		"/tmp/asterisk/extconfig.conf",
+		"/home/nils.mull/Scripts/Network/sg300_manager.py",
+		"/home/nils.mull/.fabricrc",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/scantomail/manifests/resources.pp",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/proftpd/files/transferlogReader.py",
+		"/home/nils.mull/puppet/kaufda_secret/hiera/node/glpi.de.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/hiera/node/openvpn.rsp.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_puppet/enc/usftp.rsp.bonial.lan.yaml",
+		"/home/nils.mull/puppet/kaufda_secret/modules/openvpn/files/openvpn/user-configs/alejandro.garcia/alejandro.garcia.ovpn",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/graylog_ng/templates/server.conf.erb",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/proftpd/manifests/ftp_mail_notification.pp",
+		"/home/nils.mull/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/nils.mull/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/nils.mull/.bashrc",
+		"/home/nils.mull/puppet/kaufda_puppet/modules/barman/manifests/server.pp",
+		"/home/nils.mull/Dropbox/Notes/.brain/Inbox.note",
+		"/home/nils.mull/Tickets/CERT-4280/mkdir-script-for-logos.contentteam.sh",
+		"/home/nils.mull/puppet/kaufda_secret/modules/fileserver/manifests/init.pp",
+		"/home/nils.mull/Dropbox/Notes/networkserver.note",
+		"/home/nils.mull/Dropbox/Notes/Phones.note"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/nils.mull/puppet/kaufda_puppet",
+			"/home/nils.mull/puppet/kaufda_puppet/modules/asterisk",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"textures",
+			"255",
+			"30",
+			"10",
+			"menu_size",
+			"()\n",
+			"Server",
+			"mpd",
+			"=",
+			"mpd_port",
+			"mpd_server",
+			"None",
+			"call_funktion",
+			"Radio",
+			"Alben",
+			"Playlist",
+			"arg",
+			"eRa9wee5",
+			"geng",
+			"boxbackup",
+			"^(.*?)\\s.*(running|down).*",
+			"bi_tags",
+			":\n",
+			"backupserver02",
+			"homebase",
+			"content_nfs",
+			"boxbackup_client",
+			"zhaolong.liu",
+			"liu",
+			"^(.*?)\\s.*(running|down).*",
+			"000b822b3e24",
+			"sipphone",
+			"ftp-de.de",
+			"offbkp01.hzr.bonial.com",
+			"hzr",
+			"backupserver02",
+			"backupserver01",
+			"theo",
+			"crl-verify",
+			"ther",
+			"lock",
+			"lockin",
+			"ftp-de",
+			"security",
+			"locking",
+			"switch121F07",
+			".*(switch......).*",
+			"tmp",
+			"bootloader",
+			"info",
+			"c42c0307c2a8",
+			"c4:2c0307c2a8",
+			"c4:2c:03:07:c2:a8",
+			"    \n",
+			"web.fo",
+			"deactivemq01.lite05.de.bonial.lan",
+			"foo.sandbox.aws.bonial.lan",
+			"web.foo.sandbox.aws.bonial.lan",
+			"kaufda",
+			"ftp-fr",
+			"172.16.20.47",
+			"om_tags",
+			"ben",
+			"172.16.20.47",
+			"bi-server.de.bonial.lan",
+			"bi-server",
+			"aws",
+			"krake",
+			"add_check",
+			".*1.4.0.88",
+			"switch7C45D8 \"1.3.5.06\" \"1.4.0.88",
+			".*?(switch......).*",
+			"^(.*?lan).*owner:(.*)",
+			"bamboo.de.bonial.lan                           kvm        image+debian-6.0_64        node6.de.bonial.lan  running    112.0G owner:devbackend@kaufda.de",
+			"^(.*?lan).*owner:(.*)",
+			" max_check_attempts ",
+			"generate_nagios_checks::add_check",
+			"add_checks",
+			"SIP_peer",
+			"sip",
+			"scalor",
+			"uws",
+			"\n-",
+			"60",
+			"^(.*?lan).*owner:(.*)",
+			"^.*lan",
+			"locking",
+			"']\n",
+			"intern",
+			"schneid",
+			"account 1",
+			"60",
+			"Nathanael",
+			"Francisco",
+			"Chekanskiy",
+			"alex",
+			"kraken_tags",
+			"        ",
+			"172\\.28",
+			"172/.28",
+			"110",
+			"110ß",
+			"110",
+			"sftp.de.",
+			"cluster",
+			"33658621518",
+			"Rafael",
+			"openfire.de",
+			"michal",
+			"dhcp_range_start",
+			"node1",
+			"support03",
+			"support",
+			"cs6",
+			"\n-",
+			"back",
+			"backgr",
+			"Print",
+			"ie8-browser.de.bonial.lan",
+			"vol",
+			"volu",
+			"volum",
+			"content_nfs_tags",
+			"upload-global-portal",
+			"dev_tag",
+			"dev",
+			"upload-ops",
+			"glob"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1,$2",
+			"$1",
+			"",
+			"^$",
+			"$1",
+			"$1,$2",
+			"$1\\t$2",
+			"$1,$2",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RadioPI/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1759,
+								1759
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 497.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "RadioPI/settings.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "RadioPI/Menu.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1865,
+								1865
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "RadioPI/gui.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 214.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 269.0
+	},
+	"pinned_build_system": "",
+	"project": "RadioOP.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"useryaml",
+				"kaufda_secret/hiera/kaufda-userdatabase.yaml"
+			],
+			[
+				"openvpnindex",
+				"kaufda_secret/modules/openvpn/files/openvpn/easy-rsa/keys/index.txt"
+			],
+			[
+				"index.",
+				"kaufda_secret/CA/index.txt"
+			],
+			[
+				"fileserver01.de",
+				"kaufda_puppet/hiera/node/fileserver01.de.bonial.lan.yaml"
+			],
+			[
+				"backupserver02",
+				"kaufda_puppet/hiera/node/backupserver02.de.bonial.lan.yaml"
+			],
+			[
+				"backupser",
+				"kaufda_secret/hiera/node/backupserver02.de.bonial.lan.yaml"
+			],
+			[
+				"backupserver01",
+				"kaufda_puppet/hiera/node/backupserver01.de.bonial.lan.yaml"
+			],
+			[
+				"fileserver01",
+				"kaufda_puppet/hiera/node/fileserver01.de.bonial.lan.yaml"
+			],
+			[
+				"fileser",
+				"kaufda_puppet/hiera/node/fileserver01.de.bonial.lan.yaml"
+			],
+			[
+				"useryla",
+				"kaufda_puppet/hiera/kaufda-userdatabase.yaml"
+			],
+			[
+				"common",
+				"kaufda_secret/hiera/common.yaml"
+			],
+			[
+				"dnsm",
+				"kaufda_puppet/modules/dnsmasq/files/dnsmasq.conf"
+			],
+			[
+				"comm",
+				"kaufda_puppet/hiera/common.yaml"
+			],
+			[
+				"openvp",
+				"kaufda_secret/modules/openvpn/templates/openvpnserver.conf.erb"
+			],
+			[
+				"seceftp",
+				"kaufda_secret/hiera/node/ftp.de.bonial.lan.yaml"
+			],
+			[
+				"openvpon",
+				"kaufda_secret/modules/openvpn/templates/openvpnserver.conf.erb"
+			],
+			[
+				"fileserver",
+				"kaufda_puppet/modules/litedumps/manifests/fileserver.pp"
+			],
+			[
+				"asa",
+				"kaufda_puppet/modules/cisco/manifests/asa_nagios_checks.pp"
+			],
+			[
+				"user",
+				"kaufda_puppet/hiera/kaufda-userdatabase.yaml"
+			],
+			[
+				"dnsma",
+				"kaufda_puppet/modules/dnsmasq/files/dnsmasq.conf"
+			],
+			[
+				"dns",
+				"kaufda_puppet/modules/dnsmasq/files/dnsmasq.conf"
+			],
+			[
+				"networky",
+				"kaufda_puppet/hiera/node/networkserver.de.bonial.lan.yaml"
+			],
+			[
+				"backupserde",
+				"kaufda_puppet/hiera/node/backupserver02.de.bonial.lan.yaml"
+			],
+			[
+				"sg300",
+				"kaufda_puppet/modules/cisco/templates/sg300-10-startup-config.erb"
+			],
+			[
+				"backupserver01.us",
+				"kaufda_puppet/hiera/node/backupserver01.us.bonial.lan.yaml"
+			],
+			[
+				"temp",
+				"kaufda_puppet/modules/dell/files/temperature_check.pl"
+			],
+			[
+				"dbback",
+				"kaufda_secret/hiera/role/dbbackup.yaml"
+			],
+			[
+				"db-backup",
+				"kaufda_puppet/enc/db-backup.de.bonial.lan.yaml"
+			],
+			[
+				"aster",
+				"kaufda_puppet/modules/asterisk/files/asterisk.conf"
+			],
+			[
+				"sele",
+				"kaufda_puppet/enc/selenium-node1.de.bonial.lan.yaml"
+			],
+			[
+				"dialpla",
+				"kaufda_puppet/modules/asterisk/files/dialplan/extensions.conf"
+			],
+			[
+				"userymal",
+				"kaufda_puppet/hiera/kaufda-userdatabase.yaml"
+			],
+			[
+				"dialp",
+				"kaufda_puppet/modules/asterisk/files/dialplan/extensions.conf"
+			],
+			[
+				"sftp",
+				"kaufda_puppet/modules/mam_device_detection/manifests/sftp.pp"
+			],
+			[
+				".zsh",
+				"~/.zshrc"
+			],
+			[
+				"netwofr",
+				"kaufda_puppet/hiera/node/networkserver.fr.bonial.lan.yaml"
+			],
+			[
+				"network",
+				"kaufda_puppet/enc/networkserver.fr.bonial.lan.yaml"
+			],
+			[
+				"net",
+				"kaufda_puppet/hiera/node/networkserver.fr.bonial.lan.yaml"
+			],
+			[
+				"sip.peer",
+				"kaufda_puppet/modules/asterisk/templates/sip_peers/sip.users.conf.erb"
+			],
+			[
+				"dialpal",
+				"kaufda_puppet/modules/asterisk/files/dialplan/extensions_fr.conf"
+			],
+			[
+				"vlan",
+				"kaufda_puppet/modules/dnsmasq/templates/vlan.conf.erb"
+			],
+			[
+				"server.pp",
+				"kaufda_puppet/modules/nfs/manifests/server.pp"
+			],
+			[
+				"rc",
+				"~/.config/awesome/rc.lua"
+			],
+			[
+				"rc.",
+				"~/.config/awesome/rc.lua"
+			],
+			[
+				"hieruseryaml",
+				"kaufda_secret/hiera/kaufda-userdatabase.yaml"
+			],
+			[
+				"comp",
+				"kaufda_puppet/modules/userdatabase/manifests/computers.pp"
+			],
+			[
+				"pg-dwh-port",
+				"kaufda_puppet/hiera/node/pg-dwh-portal.prod.brs.bonial.lan.yaml"
+			],
+			[
+				"networkserver.fr",
+				"kaufda_puppet/enc/networkserver.fr.bonial.lan.yaml"
+			],
+			[
+				"netwo",
+				"kaufda_puppet/enc/networkserver.fr.bonial.lan.yaml"
+			],
+			[
+				"repospro",
+				"kaufda_puppet/hiera/node/repository.prod.brs.bonial.lan.yaml"
+			],
+			[
+				"fr-",
+				"kaufda_puppet/enc/fr-node1.fr.bonial.lan.yaml"
+			],
+			[
+				"dnsc",
+				"kaufda_puppet/modules/dnsmasq/files/dnsmasq.conf"
+			],
+			[
+				"dialpl",
+				"kaufda_puppet/modules/asterisk/files/dialplan/extensions.conf"
+			],
+			[
+				"openv",
+				"kaufda_secret/modules/openvpn/templates/openvpnserver.conf.erb"
+			],
+			[
+				"tran",
+				"kaufda_puppet/modules/proftpd/files/transferlogReader.py"
+			],
+			[
+				"ftpno",
+				"kaufda_puppet/modules/proftpd/manifests/ftp_mail_notification.pp"
+			],
+			[
+				"glpi.",
+				"kaufda_secret/hiera/node/glpi.de.bonial.lan.yaml"
+			],
+			[
+				"openvo",
+				"kaufda_secret/modules/openvpn/templates/openvpnserver.conf.erb"
+			],
+			[
+				"kaufuserymal",
+				"kaufda_secret/hiera/kaufda-userdatabase.yaml"
+			],
+			[
+				"usftp",
+				"kaufda_puppet/enc/usftp.rsp.bonial.lan.yaml"
+			],
+			[
+				"openvpn",
+				"kaufda_secret/modules/openvpn/templates/openvpnserver.conf.erb"
+			],
+			[
+				"dnsser",
+				"kaufda_puppet/modules/dnsmasq/manifests/servers.pp"
+			],
+			[
+				"ini",
+				"kaufda_secret/modules/fileserver/manifests/init.pp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/puppet/puppet.sublime-project"
+			],
+			[
+				"fab",
+				"~/fabric/frabric.sublime-project"
+			],
+			[
+				"f",
+				"~/fabric/frabric.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
